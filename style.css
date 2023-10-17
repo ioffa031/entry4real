@@ -1,0 +1,25 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;     
+}
+
+body{
+    background-color: rgb(220, 230, 238);
+}
+
+h1, h2{
+    margin-left: 50px;
+    margin-top: 2vh;
+}
+
+p{
+    text-align: right;
+}
+
+
+
+
+
+
